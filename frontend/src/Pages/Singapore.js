@@ -11,6 +11,8 @@ function Singapore(){
             <div className = "Responses">
                 <h3>Singapore culture</h3>
                 <p>Singapore is a culture that highly values organization. From the MRT to the hawker centers, Singapore is so thoughtful in their design. It is at its peak in its user friendliness, making the country easy to navigate for both foreigners and residents. </p>
+
+                <h3>Lessons learned</h3>
             </div>
 
         </div>
