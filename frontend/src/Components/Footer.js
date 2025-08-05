@@ -4,18 +4,11 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <nav>
-      <Link to="/">About</Link>
+      <Link to="https://www.linkedin.com/in/haoran-shi2">linkedin</Link>
       <span> | </span>
-      <Link to="/resume">Resume</Link>  
-      <span> | </span>
-      <Link to="/singapore">UF in Singapore</Link>
-      <span> | </span>
-      <Link to="/internship">Internship</Link>
-      <span> | </span>
-      <Link to="/skills">Skills</Link>
-
+      <Link to="mailto:haoran.shi@ufl.edu">Email</Link>  
     </nav>
   );
 }
 
-export default Navbar;
+export default Footer;

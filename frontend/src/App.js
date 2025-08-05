@@ -6,6 +6,7 @@ import Resume from '../src/Pages/Resume';
 import Singapore from '../src/Pages/Singapore';
 import Internship from '../src/Pages/Internship';
 import Skills from '../src/Pages/Skills'; // Assuming you have a Skills page
+import Footer from '../src/Components/Footer';
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
           <Route path="/internship" element={<Internship />} />
           <Route path="/skills" element={<Skills />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
