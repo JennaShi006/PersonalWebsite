@@ -5,6 +5,7 @@ function Internship() {
         <div className="Internship">
             <h1>Internship Page</h1>
             <p>This page will contain information about internships.</p>
+            <h>hello</h>
         </div>
     );
 }
